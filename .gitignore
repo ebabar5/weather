@@ -1,0 +1,15 @@
+# API Keys and sensitive files
+config.js
+*.env
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
